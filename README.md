@@ -8,9 +8,9 @@ Current implementations of spine require WebGL/Turbulenz or by using pixi.js. Wh
 http://www.atomk.com/spineboy/
 
 ### Required ###
-ImpactJS 1.23 or above
-A Spine license
-To modify you will need google's closure library
+- ImpactJS 1.23 or above
+- A Spine license
+- Google's closure library (for modification)
 
 ### Known issues ###
 - The animations loop and it's quite difficult to get it to rewind as it should. Maybe someone could figure this out.
