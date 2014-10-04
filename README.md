@@ -6,6 +6,7 @@ Current implementations of spine require WebGL/Turbulenz or by using pixi.js. Wh
 
 ### Demo ###
 http://www.atomk.com/spineboy/
+(Controls WASD + F || Direction Keys + F || Touch controls via mobile browser)
 
 ### Required ###
 - ImpactJS 1.23 or above
